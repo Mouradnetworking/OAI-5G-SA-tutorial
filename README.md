@@ -45,14 +45,6 @@ Please see [NOTICE](NOTICE.md) file for third party software that is included in
  *  [How to build](./doc/BUILD.md)
  *  [How to run the modems](./doc/RUNMODEM.md)
 
-Not all information is available in a central place, and information for
-specific sub-systems might be available in the corresponding sub-directories.
-To find all READMEs, this command might be handy:
-
-```
-find . -iname "readme*"
-```
-
 # RAN repository structure #
 
 The OpenAirInterface (OAI) software is composed of the following parts: 
